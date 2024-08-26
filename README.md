@@ -1,7 +1,9 @@
-Imágenes de los Resultados en la base de datos en Postman Categories, Brands y Products.
+Imágenes de los Resultados en la base de datos de Postman Categories, Brands y Products.
 
-![image](https://github.com/user-attachments/assets/e4788ed1-ebf7-4f0f-a84c-20cb06ae1eb4)
+![image](https://github.com/user-attachments/assets/742796a8-1110-4355-9d03-83fd2d5023e4)
 
-![image](https://github.com/user-attachments/assets/0cc9ac4c-a6ca-4a6c-ae82-25cb376f8ee7)
+![image](https://github.com/user-attachments/assets/4152b5a6-2d2e-46bd-a0ba-5813e87ba490)
 
-![image](https://github.com/user-attachments/assets/feb666b6-fc39-48a6-bd92-e401479595a1)
+![image](https://github.com/user-attachments/assets/34a8f593-93d6-4318-a867-8f8b89966a2a)
+
+
